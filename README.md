@@ -1,5 +1,6 @@
 # Kutuphane-Otomasyonu
-
+ C# dili ile database olarak SQL Server kullanarak basit bir kütüphane otomasyonu yaptım. Bu çalışmamda MVC yapısını kullandım.
+ Lütfen kendi veritabanı bağlantınızı gerçekleştirin.
  
 ![giris](https://user-images.githubusercontent.com/113643261/236240003-79d9d4e3-7502-4bab-bef4-776611191478.png)
 ![admin-anasayfa](https://user-images.githubusercontent.com/113643261/236240212-8d61e8e2-597a-48cc-a749-630d8aab3b74.png)
